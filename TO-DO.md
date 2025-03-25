@@ -1,0 +1,25 @@
+
+- [x]  Editar diagrama de venda 
+	- [x]  Licencas modelo SaaS (adicionar recorrencia)
+- [ ] Nos requisitos esclarecer antes o que e sistema e o que e software
+- [ ] Esclarecer o que é o site e o que é o web app
+- [ ] Iniciar prototipagem do site
+- [x] Escolher um modelo de processo de software para o desenvolvimento do seu software. Justificar a sua resposta.
+- [x] Listar os stakeholders do seu software e descrever como eles são impactados pelo sistema.
+- [ ] Explicar qual técnica seria a mais adequada para a coleta de requisitos do seu software.
+- [x] Especifique os requisitos funcionais.
+- [ ] Separar requisitos não-funcionais entre os tipos especificados
+- [ ] Especifique os requisitos não funcionais (performance, segurança, disponibilidade, usabilidade, interoperabilidade e operacionais)
+- [ ] Especifique as regras de negócio de acordo com seus processos de negócio.
+- [ ] Elabore os protótipos das interfaces gráficas do seu software.
+- [ ] Escreva os requisitos de software usando a técnica de Histórias de Usuário.
+- [ ] Documente o resultado na WIKI do seu projeto e publique o link nesta tarefa.
+- [x] Definir regras de negócio
+- [ ] Atualizar protóripo
+- [ ] Protótipos dos emails + form do suporte
+- [ ] Telas
+	- [ ] Cadastro
+	- [ ] Login
+	- [ ] Compra
+	- [ ] Cancelamento
+- [ ] Adicionar elemento na UI para cancelamento e suporte

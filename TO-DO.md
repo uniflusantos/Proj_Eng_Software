@@ -16,7 +16,7 @@
 - [x] Documente o resultado na WIKI do seu projeto e publique o link nesta tarefa.
 - [x] Definir regras de negócio
 - [x] Atualizar protóripo
-- [ ] Protótipos dos emails + form do suporte
+- [x] Protótipos dos emails + form do suporte
 - [ ] Telas
 	- [ ] Cadastro
 	- [ ] Login

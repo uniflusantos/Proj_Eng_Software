@@ -22,4 +22,7 @@
 	- [ ] Login
 	- [ ] Compra
 	- [ ] Cancelamento
-- [ ] Adicionar elemento na UI para cancelamento e suporte
+- [ ] Adicionar elemento na UI para cancelamento, suporte e avaliação
+- [ ] Adicionar features faltantes da tela de vendas
+- [ ] Adicionar features faltantes da tela de clientes
+- [ ] Planejar a apresentação

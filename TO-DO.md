@@ -26,3 +26,4 @@
 - [ ] Adicionar features faltantes da tela de vendas
 - [ ] Adicionar features faltantes da tela de clientes
 - [ ] Planejar a apresentação
+- [ ] Defiinir PDF e Excel como requisitos funcionais

@@ -27,3 +27,4 @@
 - [ ] Adicionar features faltantes da tela de clientes
 - [ ] Planejar a apresentação
 - [ ] Defiinir PDF e Excel como requisitos funcionais
+- [ ] Adicionar história de usuário representante

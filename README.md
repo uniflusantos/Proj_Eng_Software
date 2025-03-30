@@ -28,13 +28,13 @@
  	- [x] Web App
   	- [x] Pagamento
 - [x] Adicionar elemento na UI para cancelamento, suporte e avaliação
-- [ ] Adicionar features faltantes da tela de vendas
-	- [ ] Remover venda
- 	- [ ] Editar venda
-- [ ] Adicionar features faltantes da tela de clientes
-	- [ ] Remover cliente
- 	- [ ] Editar cliente
-  	- [ ] Buscar cliente
+- [x] Adicionar features faltantes da tela de vendas
+	- [x] Remover venda
+ 	- [x] Editar venda
+- [x] Adicionar features faltantes da tela de clientes
+	- [x] Remover cliente
+ 	- [x] Editar cliente
+  	- [x] Buscar cliente
 - [ ] Planejar a apresentação
 - [x] Defiinir PDF e Excel como requisitos funcionais
 - [x] Adicionar história de usuário representante

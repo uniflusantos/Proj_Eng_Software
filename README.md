@@ -26,6 +26,7 @@
  	- [x] Suporte
 	- [x] Avaliação
  	- [x] Web App
+  	- [x] Pagamento
 - [x] Adicionar elemento na UI para cancelamento, suporte e avaliação
 - [ ] Adicionar features faltantes da tela de vendas
 	- [ ] Remover venda

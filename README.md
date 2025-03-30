@@ -18,14 +18,22 @@
 - [x] Definir regras de negócio
 - [x] Atualizar protóripo
 - [x] Protótipos dos emails + form do suporte
-- [ ] Telas
-	- [ ] Cadastro
-	- [ ] Login
-	- [ ] Compra
-	- [ ] Cancelamento
-- [ ] Adicionar elemento na UI para cancelamento, suporte e avaliação
+- [x] Telas
+	- [x] Cadastro
+	- [x] Login
+	- [x] Compra
+	- [x] Cancelamento
+ 	- [x] Suporte
+	- [x] Avaliação
+ 	- [x] Web App
+- [x] Adicionar elemento na UI para cancelamento, suporte e avaliação
 - [ ] Adicionar features faltantes da tela de vendas
+	- [ ] Remover venda
+ 	- [ ] Editar venda
 - [ ] Adicionar features faltantes da tela de clientes
+	- [ ] Remover cliente
+ 	- [ ] Editar cliente
+  	- [ ] Buscar cliente
 - [ ] Planejar a apresentação
 - [x] Defiinir PDF e Excel como requisitos funcionais
 - [x] Adicionar história de usuário representante

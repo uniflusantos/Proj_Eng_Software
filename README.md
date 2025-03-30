@@ -1,3 +1,4 @@
+# TO-DO
 
 - [x]  Editar diagrama de venda 
 	- [x]  Licencas modelo SaaS (adicionar recorrencia)
@@ -17,14 +18,23 @@
 - [x] Definir regras de negócio
 - [x] Atualizar protóripo
 - [x] Protótipos dos emails + form do suporte
-- [ ] Telas
-	- [ ] Cadastro
-	- [ ] Login
-	- [ ] Compra
-	- [ ] Cancelamento
-- [ ] Adicionar elemento na UI para cancelamento, suporte e avaliação
-- [ ] Adicionar features faltantes da tela de vendas
-- [ ] Adicionar features faltantes da tela de clientes
+- [x] Telas
+	- [x] Cadastro
+	- [x] Login
+	- [x] Compra
+	- [x] Cancelamento
+ 	- [x] Suporte
+	- [x] Avaliação
+ 	- [x] Web App
+  	- [x] Pagamento
+- [x] Adicionar elemento na UI para cancelamento, suporte e avaliação
+- [x] Adicionar features faltantes da tela de vendas
+	- [x] Remover venda
+ 	- [x] Editar venda
+- [x] Adicionar features faltantes da tela de clientes
+	- [x] Remover cliente
+ 	- [x] Editar cliente
+  	- [x] Buscar cliente
 - [ ] Planejar a apresentação
 - [x] Defiinir PDF e Excel como requisitos funcionais
 - [x] Adicionar história de usuário representante
